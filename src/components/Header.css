@@ -1,0 +1,12 @@
+.header--image {
+  padding-right: 23px;
+  margin: 23px;
+}
+#p {
+  height: 34px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/uk/thumb/7/78/Trollface.svg/1200px-Trollface.svg.png");
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  z-index: -2;
+}
